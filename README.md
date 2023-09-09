@@ -134,6 +134,7 @@ ORDER BY purchaser.month;
 ```
 => Result:
 
+![image](https://github.com/ThuHuong-Gina/Ecommerce_Exploring_in_SQL/assets/141025228/3e86219d-be16-4f8c-8259-4c98ba99e328)
 
 ### Query 05: Average number of transactions per user that made a purchase in July 2017
 ```
